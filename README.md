@@ -23,7 +23,8 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 ## Program:
 ### Gram-Schmidt Method
-''' 
+'''
+```
 Program to QR decomposition using the Gram-Schmidt method
 Developed by: SHAIK MAHAMMAD IMRAAN
 RegisterNumber: 212223100053
@@ -51,11 +52,6 @@ QR_Decomposition(a)
 
 ```
 
-
-
-
-
-```
 
 ## Output
 
